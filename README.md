@@ -19,3 +19,12 @@
 | POST | `/alerta` | Cria um novo alerta |
 | PATCH | `/alerta/{id}` | Atualiza parcialmente um alerta existente |
 | DELETE | `/alerta/{id}` | Remove um alerta pelo ID |
+
+## Como usar
+- Entre na pasta
+  ```bash cd DocSwagger ```
+- Execute
+  ``` node documentacao.js ```
+
+- Verifique se está na porta
+  ``` http://localhost:3000/docs ```
