@@ -21,10 +21,13 @@
 | DELETE | `/alerta/{id}` | Remove um alerta pelo ID |
 
 ## Como usar
-- Entre na pasta
-  ```bash cd DocSwagger ```
-- Execute
+- Entre na pasta:
+
+  ``` cd DocSwagger ```
+- Execute:
+
   ``` node documentacao.js ```
 
-- Verifique se está na porta
+- Abra a porta:
+
   ``` http://localhost:3000/docs ```
